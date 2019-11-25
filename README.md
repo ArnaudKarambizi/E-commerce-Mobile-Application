@@ -1,4 +1,4 @@
-# REACT ECOMMERCE MOBILE APP
+# React E-Commerce Mobile
 
 Technologies used to make the project.
 
