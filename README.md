@@ -1,4 +1,4 @@
-# REACT ECOMMERCE SITE
+# REACT ECOMMERCE MOBILE APP
 
 Technologies used to make the project.
 
