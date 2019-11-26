@@ -76,11 +76,11 @@ $ npm start
 
 ### Before Refactoring
 
-![Before Refactoring](./audits/before-refactoring.png)
+![Before Refactoring](audits/after-refactoring.png)
 
 ### After Refactoring
 
-![After Refactoring](./audits/after-refactoring.png)
+![After Refactoring](audits/after-refactoring.png)
 
 # Author
 
