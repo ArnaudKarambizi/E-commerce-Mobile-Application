@@ -90,6 +90,11 @@ ul {
     color: rgb(0, 132, 255) !important;
 }
 
+.search-label{
+    color: #fff;
+    margin-right: 10px;
+}
+
 /* =============================
        SLIDESHOW
   ========================*/

@@ -72,6 +72,15 @@ and
 $ cd client
 $ npm start
 ```
+# Audits
+
+### Before Refactoring
+
+![Before Refactoring](./audits/before-refactoring.png)
+
+### After Refactoring
+
+![After Refactoring](./audits/after-refactoring.png)
 
 # Author
 

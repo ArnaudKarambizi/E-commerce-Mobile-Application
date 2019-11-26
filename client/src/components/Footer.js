@@ -1,5 +1,9 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
+import facebookImage from '../assets/images/facebook40x40.png';
+import instagramImage from '../assets/images/instagram40x40.png';
+import twitterImage from '../assets/images/twitter40x40.png';
+import youtubeImage from '../assets/images/youtube40x40.png';
 
 export default function Footer() {
     return (
@@ -31,7 +35,7 @@ export default function Footer() {
                     <li>
                         <a href="https://www.instagram.com/?hl=en">
                             <img
-                                src="https://c866088.ssl.cf3.rackcdn.com/assets/instagram40x40.png"
+                                src={instagramImage}
                                 alt="Instagram Icon"
                             />
                         </a>
@@ -39,7 +43,7 @@ export default function Footer() {
                     <li>
                         <a href="https://www.facebook.com/">
                             <img
-                                src="https://c866088.ssl.cf3.rackcdn.com/assets/facebook40x40.png"
+                                src={facebookImage}
                                 alt="Facebok Icon"
                             />
                         </a>
@@ -47,7 +51,7 @@ export default function Footer() {
                     <li>
                         <a href="https://twitter.com/?lang=en">
                             <img
-                                src="https://c866088.ssl.cf3.rackcdn.com/assets/twitter40x40.png"
+                                src={twitterImage}
                                 alt="Twitter Icon"
                             />
                         </a>
@@ -55,7 +59,7 @@ export default function Footer() {
                     <li>
                         <a href="https://www.youtube.com/channel/UCYfdidRxbB8Qhf0Nx7ioOYw">
                             <img
-                                src="https://c866088.ssl.cf3.rackcdn.com/assets/youtube40x40.png"
+                                src={youtubeImage}
                                 alt="Youtube Icon"
                             />
                         </a>
