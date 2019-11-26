@@ -76,7 +76,7 @@ $ npm start
 
 ### Before Refactoring
 
-![Before Refactoring](audits/after-refactoring.png)
+![Before Refactoring](audits/before-refactoring.png)
 
 ### After Refactoring
 
