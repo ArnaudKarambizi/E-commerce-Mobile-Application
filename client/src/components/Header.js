@@ -40,7 +40,7 @@ export default function Header(props) {
           )}
         </ul>
         <form className="header-search" onSubmit={props.onSubmit}>
-          <label class="search-label" htmlFor="search">Search:</label>
+          <label className="search-label" htmlFor="search">Search:</label>
           <input
             id="search"
             type="search"
