@@ -78,11 +78,14 @@ $ npm start
 
  
 
-<img src="audits/before-refactoring.png" alt="drawing" width="250x250"/>
+<img src="audits/before-refactoring.png" alt="screenshot" width="700"/>
 
 ### After Refactoring
 
-![After Refactoring](audits/after-refactoring.png)
+<img src="audits/after-refactoring.png" alt="screenshot" width="700"/>
+
+
+ 
 
 # Author
 
