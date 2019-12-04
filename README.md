@@ -85,8 +85,10 @@ $ npm start
 <img src="audits/pwa-audit.png" alt="screenshot" width="700"/>
 
 
- 
-
+ ### Working App
+ <img src="audits/ Homescreen.jpg" alt="screenshot" width="700"/>
+<img src="audits/homepage.jpg alt="screenshot" width="700"/>
+<img src="audits/products.jpg" alt="screenshot" width="700"/>
 # Author
 
 -   Arnaud Karambizi https://github.com/arnaudkarambizi
