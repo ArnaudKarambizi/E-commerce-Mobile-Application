@@ -72,20 +72,7 @@ and
 $ cd client
 $ npm start
 ```
-# Audits
-
-### Before Refactoring
-
- 
-
-<img src="audits/before-refactoring.png" alt="screenshot" width="700"/>
-
-### After Refactoring
-
-<img src="audits/pwa-audit.png" alt="screenshot" width="700"/>
-
-
- 
+  
 # Working App
 #                                 
    <img src="audits/ Homescreen.jpg" alt="screenshot" width="250x"/>              |  <img src="audits/homepage.jpg" alt="screenshot" width="250x"/>        |   <img src="audits/products.jpg" alt="screenshot" width="250x"/> 
