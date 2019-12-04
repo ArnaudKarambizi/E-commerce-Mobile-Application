@@ -82,7 +82,7 @@ $ npm start
 
 ### After Refactoring
 
-<img src="audits/after-refactoring.png" alt="screenshot" width="700"/>
+<img src="audits/pwa-audit.png" alt="screenshot" width="700"/>
 
 
  
