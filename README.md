@@ -86,9 +86,9 @@ $ npm start
 
 
  ### Working App
- <img src="audits/ Homescreen.jpg" alt="screenshot" width="100x100"/>
-<img src="audits/homepage.jpg" alt="screenshot" width="100x100"/>
-<img src="audits/products.jpg" alt="screenshot" width="100x100"/>
+ <img src="audits/ Homescreen.jpg" alt="screenshot" width="400x"/>
+<img src="audits/homepage.jpg" alt="screenshot" width="400x"/>
+<img src="audits/products.jpg" alt="screenshot" width="400x"/>
 # Author
 
 -   Arnaud Karambizi https://github.com/arnaudkarambizi
