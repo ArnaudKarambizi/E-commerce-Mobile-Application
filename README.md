@@ -78,7 +78,7 @@ $ npm start
 
  
 
-<img src="audits/before-refactoring.png" alt="drawing" width="350"/>
+<img src="audits/before-refactoring.png" alt="drawing" width="650"/>
 
 ### After Refactoring
 
