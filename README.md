@@ -86,7 +86,7 @@ $ npm start
 
 
  
-# Homescreen                                                                   | Homepage                                                                       | Products
+# Working App
 #                                  ------------- | -------------
    <img src="audits/ Homescreen.jpg" alt="screenshot" width="250x"/>              |  <img src="audits/homepage.jpg" alt="screenshot" width="250x"/>        |   <img src="audits/products.jpg" alt="screenshot" width="250x"/> 
  
