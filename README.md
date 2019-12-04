@@ -86,12 +86,10 @@ $ npm start
 
 
  
-# First Header                                                                    | Second Header
+# Homescreen                                                                   | Homepage                                                                       | Products
 #                                  ------------- | -------------
-   <img src="audits/ Homescreen.jpg" alt="screenshot" width="250x"/>              |  <img src="audits/homepage.jpg" alt="screenshot" width="250x"/>
-               
-   <img src="audits/products.jpg" alt="screenshot" width="250x"/>                 |  
-
+   <img src="audits/ Homescreen.jpg" alt="screenshot" width="250x"/>              |  <img src="audits/homepage.jpg" alt="screenshot" width="250x"/>        |   <img src="audits/products.jpg" alt="screenshot" width="250x"/> 
+ 
 
 
 
