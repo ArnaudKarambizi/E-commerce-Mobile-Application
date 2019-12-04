@@ -18,7 +18,7 @@ npm packages used.
 
 ## Quick Start
 
-# s###   Installation 
+#    Installation 
 
 npm install in main folder and in both client and server folders
 
